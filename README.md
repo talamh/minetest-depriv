@@ -8,8 +8,11 @@
 
 ### Usage
 List all players that have the 'fly' privilege
+
 ```$ python3 depriv.py -i /home/talamh/minetest/worlds/skyblock -p fly```
+
 Remove the 'fly' privilege from all players
+
 ```$ python3 depriv.py -i /home/talamh/minetest/worlds/skyblock -p fly -r```
 
 ### TODO
